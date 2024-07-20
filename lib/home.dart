@@ -31,7 +31,7 @@ class _HomePageState extends State<HomePage> {
             height: 40,
           ),
           Text(
-            "BMI Calculator",
+            "BMI Calculator Tool",
             style: TextStyle(
                 color: Colors.red, fontSize: 32, fontWeight: FontWeight.bold),
           ),
